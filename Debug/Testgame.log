@@ -1,0 +1,3 @@
+﻿  Testgame.cpp
+C:\Users\ДОМ\source\repos\Testgame\Testgame\Testgame.cpp(107,9): warning C4101: dir: неиспользованная локальная переменная
+  Testgame.vcxproj -> C:\Users\ДОМ\source\repos\Testgame\Debug\Testgame.exe
